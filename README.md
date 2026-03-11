@@ -64,7 +64,7 @@ O dashboard será aberto no navegador.
 Filipe Rodrigues
 
 * GitHub: https://github.com/lipesoft
-* LinkedIn: https://www.linkedin.com/in/filipe-rodrigues-aa220022b
+* LinkedIn: https://www.linkedin.com/in/filipe-rodrigues-a79809386
 
 ## Objetivo
 
